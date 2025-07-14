@@ -63,11 +63,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/breast-cancer-detection-ml.git
-
 # Navigate into project directory
-cd breast-cancer-detection-ml
-
 # Install required packages
 pip install -r requirements.txt
 
